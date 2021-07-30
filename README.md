@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi, guys! 
+# I hope you can get a inspiration from my projects. 
+# And have a good day!☺️
 
 ## Tech Stack
 <p align="center">
