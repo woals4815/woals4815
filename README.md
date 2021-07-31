@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp
 </p>  
 
+
+- feel sorry for that I cannot show some projects cuz of license 🥲 
 <!--
 **woals4815/woals4815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
