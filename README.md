@@ -1,6 +1,7 @@
 # Hi, guys! 
-# I hope you can get a inspiration from my projects. 
-# And have a good day!☺️
+## I majored in business administration but.. love to code!
+## I hope you can get a inspiration from my projects. 
+## And have a good day!☺️
 
 ## Tech Stack
 <p align="center">
