@@ -19,15 +19,15 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp
-</p>  
+</p>
+
+
+
+![Jayden’s GitHub stats](https://github-readme-stats.vercel.app/api?username=woals4815&show_icons=true&theme=radical)
 
 ### Books i'm currently reading 📚
-* Node.js 디자인 패턴 바이블
-* 리팩토링2
-* 한 권으로 읽는 컴퓨터 구조와 프로그래밍
+* TDD
 
-#### Notation
-- feel sorry for that I cannot show some projects cuz of license 🥲 
 <!--
 **woals4815/woals4815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
