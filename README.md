@@ -1,39 +1,32 @@
-# Hi, guys! 
+# Jaemin Jeong
 
-## Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp
-</p>
+Product Engineer building and operating mobile products with React Native, TypeScript, and Node.js.
 
+I work across product experiments, mobile performance and observability, React Native and Android platform debugging, and backend systems.
 
+## Current focus
 
-![Jayden’s GitHub stats](https://github-readme-stats.vercel.app/api?username=woals4815&show_icons=true&theme=radical)
+- React Native product engineering at monymony
+- Mobile performance, observability, and release quality
+- Product experiments from implementation through measurement
+- Native platform debugging and migration validation
 
+## Selected experience
 
-<!--
-**woals4815/woals4815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Helped ship retention and purchase experiments for SumOne, a couples app with 19M cumulative sign-ups and about 1.2M DAU as of January 2026.
+- Co-founded MatchConnection and shipped React Native apps, Node.js services, an LLM Q&A web app, and a Chrome extension.
+- Built and operated Honeypot, a pedometer rewards app, to 500+ DAU and US$180 in monthly ad revenue.
 
-Here are some ideas to get you started:
+## Public work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [KeyboardExtender enabled-state reproduction](https://github.com/woals4815/keyboard-controller-example): minimal Expo and React Native case for a dynamic `enabled` prop issue.
+- [Firebase Admin Node PR #2934](https://github.com/firebase/firebase-admin-node/pull/2934): proposed APNs `contentChanged` payload support.
+- [react-native-keyboard-controller issue #1056](https://github.com/kirillzyusko/react-native-keyboard-controller/issues/1056): reported and documented a dynamic rendering issue on iOS.
+
+## Stack
+
+`React Native` `Expo` `TypeScript` `React` `Node.js` `NestJS` `GraphQL` `Relay` `AWS` `Firebase` `Sentry`
+
+## Contact
+
+Seoul, South Korea | [ckrt4815@gmail.com](mailto:ckrt4815@gmail.com)
