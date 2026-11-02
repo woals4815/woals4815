@@ -26,7 +26,3 @@ I work across product experiments, mobile performance and observability, React N
 ## Stack
 
 `React Native` `Expo` `TypeScript` `React` `Node.js` `NestJS` `GraphQL` `Relay` `AWS` `Firebase` `Sentry`
-
-## Contact
-
-Seoul, South Korea | [ckrt4815@gmail.com](mailto:ckrt4815@gmail.com)
